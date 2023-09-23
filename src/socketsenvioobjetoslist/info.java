@@ -14,7 +14,8 @@ package socketsenvioobjetoslist;
 public class info {
     /*
         Este ejercicio funciona bien, es basico de sockets basado en un eac de m09, pero modificado para que en lugar de una traduccion de palabra que son solo texto, me envie 
-        un objeto.También esta basada en el programa en el paquete pruebasSocketsServer02.  Esto lo hago modificando 
+        una lista de objetos.También esta basada en el programa en el paquete pruebasSocketsServer02.  
+        Lo que hago es cambiar la variable BufferedReader por ObjectOutputStream
         BufferedReader lector = new BufferedReader(new InputStreamReader(client.getInputStream()));
         por 
         ObjectOutputStream outObjeto = new ObjectOutputStream( client.getOutputStream());

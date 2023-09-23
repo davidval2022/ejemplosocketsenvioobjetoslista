@@ -7,7 +7,7 @@ package socketsenvioobjetoslist;
 
 /**
  *
- * @author tomas
+ * @author david
  */
 //import main.java.ioc.dam.m9.uf3.eac2.b2.*;
 import java.io.BufferedReader;

@@ -9,7 +9,7 @@ package socketsenvioobjetoslist;
 
 /**
  *
- * @author Usuari
+ * @author david
  */
 
 import java.io.IOException;
